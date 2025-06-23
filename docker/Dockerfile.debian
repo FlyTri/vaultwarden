@@ -1,3 +1,5 @@
+FROM vaultwarden/server
+
 # syntax=docker/dockerfile:1
 # check=skip=FromPlatformFlagConstDisallowed,RedundantTargetPlatform
 
